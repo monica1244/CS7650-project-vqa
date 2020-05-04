@@ -14,3 +14,6 @@
 
 ### Model Weights: 
 Trained Weights for all models: https://drive.google.com/open?id=1dMvJ9bQlIhEHjr_zw5uL6KLuGJfKpfqs
+
+## Project Video:
+Video hosted at https://drive.google.com/open?id=1vwYaNXBy7Gq5jYjZxcR8lEQujti8MLAb
