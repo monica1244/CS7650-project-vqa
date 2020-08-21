@@ -2,7 +2,7 @@
 #### Course Project for CS 7650: Natural Language Processing (Prof. Diyi Yang) @ Georgia Institute of Technology
 
 ### The Project
-As part of our graduate NLP course, we experimented with novel methods of performing Visual Question Answering and designed 4 models for the task.
+As part of our graduate NLP course, we experimented with novel methods of performing Visual Question Answering and designed 4 models for the task. A detailed description of our methodology can be found in the NLP_Final_Report file in this repository.
 
 ### Data
 1. Dataset consists of ResNet-18 Image features, Tokenised Questions, Tokenised Answers (in Numpy format): https://drive.google.com/open?id=1DCHNVK5pxAKOiiJcfMGcO-pSjJDIv1zT
