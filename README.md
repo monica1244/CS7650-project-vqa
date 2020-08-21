@@ -1,6 +1,9 @@
 ## Visual Question Answering
 #### Course Project for CS 7650: Natural Language Processing (Prof. Diyi Yang) @ Georgia Institute of Technology
 
+### The Project
+As part of our graduate NLP course, we experimented with novel methods of performing Visual Question Answering and designed 4 models for the task.
+
 ### Data
 1. Dataset consists of ResNet-18 Image features, Tokenised Questions, Tokenised Answers (in Numpy format): https://drive.google.com/open?id=1DCHNVK5pxAKOiiJcfMGcO-pSjJDIv1zT
 2. Dataset containing Image locations, Question and Answers can be found in the dataset directory. 
@@ -16,12 +19,12 @@
 ### Model Weights
 Trained Weights for all models: https://drive.google.com/open?id=1dMvJ9bQlIhEHjr_zw5uL6KLuGJfKpfqs
 
-## Project Video
-Video hosted at https://drive.google.com/open?id=1vwYaNXBy7Gq5jYjZxcR8lEQujti8MLAb
-
 ### Contributors
 Divyansh Kumar Roy @ https://github.com/DivyanshRoy<br>
 Shubhangi Upasani @ https://github.com/ShubhangiUpasani<br>
 Monica Gupta @ https://github.com/monica1244<br>
+
+### Project Video
+Video hosted at https://drive.google.com/open?id=1vwYaNXBy7Gq5jYjZxcR8lEQujti8MLAb
 
 This repository is a copy of the original project repository hosted at: https://github.com/DivyanshRoy/CS7650-project-vqa
