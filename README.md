@@ -27,4 +27,4 @@ Monica Gupta @ https://github.com/monica1244<br>
 #### Project Video
 Video hosted at https://drive.google.com/open?id=1vwYaNXBy7Gq5jYjZxcR8lEQujti8MLAb
 
-This repository is a copy of the original project repository hosted at: https://github.com/DivyanshRoy/CS7650-project-vqa
+This repository is a copy of the original project repository hosted at https://github.com/DivyanshRoy/CS7650-project-vqa
