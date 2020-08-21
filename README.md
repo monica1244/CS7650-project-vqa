@@ -1,5 +1,5 @@
 ## Visual Question Answering
-### Course Project for CS 7650: Natural Language Processing (Prof. Diyi Yang) @ Georgia Institute of Technology
+#### Course Project for CS 7650: Natural Language Processing (Prof. Diyi Yang) @ Georgia Institute of Technology
 
 ### Data
 1. Dataset consists of ResNet-18 Image features, Tokenised Questions, Tokenised Answers (in Numpy format): https://drive.google.com/open?id=1DCHNVK5pxAKOiiJcfMGcO-pSjJDIv1zT
